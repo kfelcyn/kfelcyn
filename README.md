@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
 <h3 align="center">IT worker from Poland</h3>
 
-- 🌱 I’m currently learning **C# .NET, Bootstrap and GitHub**
+- 🌱 I’m currently learning **C# ,.NET, and Bootstrap**
 
 
 <p align="left">
